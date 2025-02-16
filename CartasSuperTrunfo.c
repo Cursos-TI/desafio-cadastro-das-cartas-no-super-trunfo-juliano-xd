@@ -52,6 +52,5 @@ int main(){
     printf("Área: %.2f Km²\n", carta.area);
     printf("PIB: %.2f bilhoes de reais\n", carta.pib);
     printf("Pontos turísticos: %u\n", carta.pontos_turisticos);
-    
     return 0;
 }
